@@ -50,7 +50,7 @@ bot = Cinch::Bot.new do
   
   on :message do |m|
     
-    planet_name = m.message.match($planet_list_regexp)
+    planet_name = m.message.downcase.match($planet_list_regexp)
     next if planet_name.nil?
     
     players = m.message.match /^[\-|\+]\d+/
@@ -65,7 +65,7 @@ bot = Cinch::Bot.new do
   end
   
   on :join do |m|
-    m.reply "Welcome #{m.user.nick}!"
+    m.reply "Welcome #{m.user.nick}! Use `!help` to get started."
   end
 end
 
