@@ -4,7 +4,7 @@ Zvolen
 Zurich
 Zosma
 Zortman
-Zorn’s Keep
+Zorn's Keep
 Zollikofen
 Zolfo
 Zoetermeer
@@ -104,7 +104,7 @@ Vulcan
 Vosloorus
 Vorzel
 Vorarlberg
-Von Strang’s World
+Von Strang's World
 Volders
 Vixen
 Virtue
@@ -239,7 +239,7 @@ The Rack
 The Edge
 Tharkad
 Thannhausen
-Thadora’s Land
+Thadora's Land
 TF4
 Teyvareb
 Texlos
@@ -251,11 +251,11 @@ Teniente
 Teng
 Tematagi
 Telos IV
-Tellman’s Mistake
+Tellman's Mistake
 Tellman IV
 Tegaldanas
 Tecumseh
-Techne’s Revenge
+Techne's Revenge
 Tchamba
 Taygeta
 Tawas
@@ -330,10 +330,10 @@ Sterope
 Sternwerde
 Sterlington
 Sterling Steinhatchee
-Stein’s Folly
+Stein's Folly
 Steelton
 Steeles
-Star’s End
+Star's End
 Stapelfeld
 Stanzach
 Stantsiya
@@ -353,7 +353,7 @@ Sparrevohn
 Soverzene
 Soul
 Sorunda
-Sophie’s World
+Sophie's World
 Sonnia
 Songgang
 Son Hoa
@@ -529,7 +529,7 @@ Ridgebrook
 Ridderkerk
 Richvale
 Richmond
-Rezak’s Hole
+Rezak's Hole
 Reykavis
 Rexburg
 Revivim
@@ -542,7 +542,7 @@ Remshield
 Remagen
 Relevow
 Reisterstown
-Reisling’s Planet
+Reisling's Planet
 Regulus
 Regis Roost
 Reese Station
@@ -715,7 +715,7 @@ Odabasi
 Oceana
 Obrenovac
 Oberon VI
-O’Fallon
+O'Fallon
 Nyserta
 Nykvarn
 Nusakan
@@ -736,7 +736,7 @@ Nouasseur
 Notwina
 Northwind
 Northfield
-Norman’s World
+Norman's World
 Norfolk
 Nopah
 Noisiel
@@ -835,7 +835,7 @@ Morningside
 Moritz
 Moriguchi
 Morges
-Morgan’s Holdfast
+Morgan's Holdfast
 Mordialloc
 Moravian
 Moore
@@ -875,7 +875,7 @@ Milos
 Milnerton
 Millungera
 Millray
-Milligan’s World
+Milligan's World
 Milligan
 Millerton
 Midway
@@ -927,7 +927,7 @@ Maynard
 Mayetta
 Maxwell
 Maximillian
-Maxie’s Planet
+Maxie's Planet
 Mauripur
 Maule
 Mauckport
@@ -940,11 +940,11 @@ Masterson
 Marshdale
 Marshall
 Marodzi
-Marlowe’s Rift
+Marlowe's Rift
 Marlette
 Markesan
 Markab
-Marius’s Tears
+Marius's Tears
 Maritgues
 Marik
 Marielund
@@ -968,7 +968,7 @@ Mandaoaaru
 Manassas
 Manaringaine
 Manapire
-Mallory’s World
+Mallory's World
 Malibu
 Maldonado
 Malarn
@@ -983,12 +983,12 @@ Madras
 Madiun
 Maderas
 Macomb
-MacLeod’s Land
+MacLeod's Land
 Macksburg
 Mackenzie
 Macintosh
 Machida
-Ma’anshan
+Ma'anshan
 Lyons
 Lyndon
 Lyceum
@@ -1020,7 +1020,7 @@ Loongana
 Londerholm
 Lonaconing
 Logandale
-Logan’s Land
+Logan's Land
 Logan Prime
 Loeches
 Lockton
@@ -1071,7 +1071,7 @@ Lapida II
 Langhorne
 Landsmark
 Landfall
-Land’s End
+Land's End
 Lancaster
 Lancaster
 Lamon
@@ -1109,7 +1109,7 @@ Koumi
 Koulen
 Kotzebue
 Kostinbrod
-Kossandra’s Memory
+Kossandra's Memory
 Kosciusko
 Korramabad
 Koping Chian
@@ -1228,7 +1228,7 @@ Jaumegarde
 Jatznik
 Jasmine
 Jarett
-Jansen’s Hold
+Jansen's Hold
 Jamestown
 Jaipur
 Jacson
@@ -1286,7 +1286,7 @@ Huron
 Hurik
 Huntress
 Huntington
-Hunter’s Paradise
+Hunter's Paradise
 Hunan
 Hun Ho
 Humansville
@@ -1351,19 +1351,19 @@ Hazelhurst
 Hazeldean
 Haynesville
 Havdhem
-Hassi’R’mel
+Hassi'R'mel
 Hassad
 Harvest
 Hartshill
 Harsefeld
-Harrow’s Sun
+Harrow's Sun
 Harris
 Harpster
 Harmony
 Harminous
 Harloc
 Harira
-Hardisey’s Haven
+Hardisey's Haven
 Hardcore
 Hanover
 Handa
@@ -1434,7 +1434,7 @@ Glasgow
 Gladius
 Ginestra
 Gillingham
-Gillfillian’s Gold
+Gillfillian's Gold
 Gienah
 Gibson
 Gibraltar
@@ -1454,7 +1454,7 @@ Garrison
 Gant
 Ganshoren
 Gannett
-Gandy’s Luck
+Gandy's Luck
 Gan Singh
 Gambilon
 Gambier
@@ -1495,11 +1495,11 @@ Fomalhaut
 Flushing
 Florida
 Flintoft
-Fletcher’s Feast
+Fletcher's Feast
 Fletcher
 Fletcher
 Flaum
-Flannagan’s Nebulea
+Flannagan's Nebulea
 Firgrove
 Firenze
 Finsterwalde
@@ -1542,7 +1542,7 @@ Espakeh
 Escobas
 Errai
 Eromanga
-Erod’s Escape
+Erod's Escape
 Erewhon
 Epsilon Indi
 Epsilon Eridani
@@ -1600,7 +1600,7 @@ Drozan
 Drosendorf
 Dromini VI
 Drienfontein
-Drask’s Den
+Drask's Den
 Dover
 Dothan
 Dormandaine
@@ -1618,7 +1618,7 @@ Dindatari
 Diik
 Dieudonne
 Dieron
-Diedre’s Den
+Diedre's Den
 Die Moot
 Dicon
 Dickinson
@@ -1628,7 +1628,7 @@ Diass
 Diamantina
 DeWitt
 Devin
-Devil’s Rock
+Devil's Rock
 Detroit
 Deshler
 Deschenes
@@ -1697,7 +1697,7 @@ Crimond
 Crevedia
 Crestoblus
 Crellacor
-Crawford’s Delight
+Crawford's Delight
 Covington
 Coventry
 Courchevel
@@ -1790,7 +1790,7 @@ Celano
 Cebalrai
 Cavanaugh II
 Cavalor
-Cate’s Hold
+Cate's Hold
 Castrovia
 Castor
 Cassias
@@ -1871,7 +1871,7 @@ Bromhead
 Broken Wheel
 Brockway
 Brockton
-Brocchi’s Cluster
+Brocchi's Cluster
 Broaddus
 Brixtana
 Bristol
@@ -1889,7 +1889,7 @@ Bowang
 Bountiful Harvest
 Botany Bay
 Borghese
-Borgan’s Rift
+Borgan's Rift
 Bordon
 Borden
 Bora
@@ -1933,7 +1933,7 @@ Beta VII
 Beta Mensae V
 Bessarabia
 Bernardo
-Bergman’s Planet
+Bergman's Planet
 Berenson
 Bentley
 Bensinger
@@ -1971,8 +1971,8 @@ Baryshevo
 Baruun Urt
 Barstow
 Barras
-Barlow’s Folly
-Barlow’s End
+Barlow's Folly
+Barlow's End
 Barlaston
 Barcelona
 Barcella
@@ -2095,7 +2095,7 @@ Alula Australis
 Altorra
 Altoona
 Altona
-Althea’s Choice
+Althea's Choice
 Althastan
 Alterf
 Altenmarkt
@@ -2142,7 +2142,7 @@ Albiero
 Albert Falls
 Albalii
 Alarion
-Al Na’ir
+Al Na'ir
 Al Jubaylah
 Al Jafr
 Al Hillah
